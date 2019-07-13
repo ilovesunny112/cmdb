@@ -15,4 +15,4 @@ class Dispatcher:
             fn()
 
     def defaultfn(self):
-        print("commond not found")
+        print("commands not found")
